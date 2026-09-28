@@ -1,4 +1,4 @@
-# 🚛 ETS2Unlocker — A Universal Euro Truck Simulator 2 DLC Unlocker
+# 🚛 A Universal Euro Truck Simulator 2 DLC Unlocker
 
 **ETS2Unlocker** is an easy tool designed to unlock, download, activate and manage DLC content for Euro Truck Simulator 2.
 It streamlines the setup process using **CreamAPI** integration and supports most major ETS2 map expansions, cargo packs, paint jobs, and accessory DLCs.
@@ -9,9 +9,6 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
   👉 [The Latest Release](https://github.com/ETS2-DLC-Tool/.github/releases)
-  
-* **Platform:** Windows
-* **Format:** `.zip` archive
 
 > Linux and macOS support may vary depending on the current release.
 
@@ -220,16 +217,6 @@ The tool modifies DLC configuration files only. Always download from trusted sou
 
 ## Do I need to reinstall after every ETS2 update?
 Usually yes. Major game updates may overwrite modified files.
-
----
-
-# 🐞 Bug Reports & Support
-
-Found a bug or issue?  
-
-* Open a ticket on the **Issues** page  
-* Include error logs and screenshots if possible  
-* Specify your game version and DLC ownership status  
 
 ---
 

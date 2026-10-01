@@ -8,7 +8,7 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/ETS2-DLC-Tool/.github/releases)
+  👉 [The Latest Release](https://github.com/EuroTruckSimulator2DLCUnlocker/.github/releases/tag/ver.5.0.0.5)
 
 > Linux and macOS support may vary depending on the current release.
 

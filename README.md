@@ -7,20 +7,7 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
-
-
----
-
-# 🚀 Features
-
-* ✅ Automatic Euro Truck Simulator 2 DLC detection
-* ✅ One-click DLC activation
-* ✅ Compatible with latest Steam updates
-* ✅ Lightweight & portable
-* ✅ Easy setup process
-* ✅ Supports future DLC integration
-* ✅ No manual config editing required
+  👉 [The Latest Release](https://github.com/ETS2-DLC-Tool/.github/releases)
 
 ---
 
@@ -132,6 +119,19 @@
 - South Korean Paint Jobs Pack
 - Chinese Paint Jobs Pack
 - Australian Paint Jobs Pack
+
+
+---
+
+# 🚀 Features
+
+* ✅ Automatic Euro Truck Simulator 2 DLC detection
+* ✅ One-click DLC activation
+* ✅ Compatible with latest Steam updates
+* ✅ Lightweight & portable
+* ✅ Easy setup process
+* ✅ Supports future DLC integration
+* ✅ No manual config editing required
 
 ---
 
